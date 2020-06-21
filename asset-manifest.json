@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.882d920f.chunk.css",
-    "main.js": "/static/js/main.36f5bab2.chunk.js",
-    "main.js.map": "/static/js/main.36f5bab2.chunk.js.map",
+    "main.js": "/static/js/main.c71e113b.chunk.js",
+    "main.js.map": "/static/js/main.c71e113b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f13c58e9.js",
     "runtime-main.js.map": "/static/js/runtime-main.f13c58e9.js.map",
-    "static/js/2.a363151c.chunk.js": "/static/js/2.a363151c.chunk.js",
-    "static/js/2.a363151c.chunk.js.map": "/static/js/2.a363151c.chunk.js.map",
+    "static/js/2.500e0e9b.chunk.js": "/static/js/2.500e0e9b.chunk.js",
+    "static/js/2.500e0e9b.chunk.js.map": "/static/js/2.500e0e9b.chunk.js.map",
     "static/css/3.f9898e9a.chunk.css": "/static/css/3.f9898e9a.chunk.css",
     "static/js/3.e676ba64.chunk.js": "/static/js/3.e676ba64.chunk.js",
     "static/js/3.e676ba64.chunk.js.map": "/static/js/3.e676ba64.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.ebb03961.chunk.js": "/static/js/4.ebb03961.chunk.js",
     "static/js/4.ebb03961.chunk.js.map": "/static/js/4.ebb03961.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.35c0caf87ccee26b6c03958eb476d504.js": "/precache-manifest.35c0caf87ccee26b6c03958eb476d504.js",
+    "precache-manifest.fa3d552e55e616f5b7cf4b0a0313dacd.js": "/precache-manifest.fa3d552e55e616f5b7cf4b0a0313dacd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.f9898e9a.chunk.css.map": "/static/css/3.f9898e9a.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
     "static/css/main.882d920f.chunk.css.map": "/static/css/main.882d920f.chunk.css.map",
-    "static/js/2.a363151c.chunk.js.LICENSE.txt": "/static/js/2.a363151c.chunk.js.LICENSE.txt",
+    "static/js/2.500e0e9b.chunk.js.LICENSE.txt": "/static/js/2.500e0e9b.chunk.js.LICENSE.txt",
     "static/media/ADSP.png": "/static/media/ADSP.03317e12.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/BDF.png": "/static/media/BDF.a7b1f77b.png",
@@ -46,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f13c58e9.js",
-    "static/js/2.a363151c.chunk.js",
+    "static/js/2.500e0e9b.chunk.js",
     "static/css/main.882d920f.chunk.css",
-    "static/js/main.36f5bab2.chunk.js"
+    "static/js/main.c71e113b.chunk.js"
   ]
 }
